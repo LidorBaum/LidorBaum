@@ -21,7 +21,8 @@ My Last hobby I discoverd is 3D Printing and now I am looking how to make it a p
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lidorbaum&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🤝 Let's Connect
-![](https://img.shields.io/badge/Lidor-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+<a href="https://www.linkedin.com/in/lidorbaum" rel="nofollow"><img src="https://raw.githubusercontent.com/lidorbaum/lidorbaum/main/images/linkedin.svg" width="40" data-canonical-src="https://img.shields.io/badge/-Lidor_Baum-0077B5?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 
 <!--
 **LidorBaum/LidorBaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
