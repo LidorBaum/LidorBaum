@@ -15,7 +15,6 @@ My Last hobby I discoverd is 3D Printing and now I am looking how to make it a p
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lidorbaum&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lidorbaum&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
