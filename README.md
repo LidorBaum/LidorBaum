@@ -4,7 +4,8 @@
 #### 💻 About Me
 I'm a self-taught Full-Stack Developer  with experience and knowledge in writing single-page-applications and using the most updated technologies,
 including ReactJs(Hooks, Redux), Vue 2/3 (with options API and Composition API), Node.js, mongoDB, SASS, based on Javascript, HTML, CSS <br />
-You are welcome to see my lastest projects down below, and also those are WIP (such as MeBagina) <br />
+You are welcome to see my lastest projects down below, and also those are WIP (such as Lostie and MeBagina) <br />
+Please note: live demos at Heroku can take up to 30s for the server to start-up. <br />
 I am looking for my first position as full-stack developer and willing to learn as much as possible. <br />
 My Last hobby I discoverd is 3D Printing and now I am looking how to make it a part of my study. you can watch the project [3DPrinterWLED](https://github.com/LidorBaum/3DPrinterWLED) for more. <br />
 #### 🛠  Tech Stack
