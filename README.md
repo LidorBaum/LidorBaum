@@ -9,6 +9,7 @@ You are welcome to see my lastest projects down below, and also those are WIP (s
 Please note: it can take up to 30 seconds to boot up the Heroku live demo server <br />
 I am looking for my first position as full-stack developer and willing to learn as much as possible. <br />
 My Last hobby I discoverd is 3D Printing and now I am looking how to make it a part of my study. you can watch the project [3DPrinterWLED](https://github.com/LidorBaum/3DPrinterWLED) for more. <br />
+My Portfolio: https://lidor-baum.web.app <br />
 #### 🛠  Tech Stack
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
